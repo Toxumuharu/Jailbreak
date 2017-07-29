@@ -1,0 +1,2 @@
+74.208.10.249 gs.apple.com
+#127.0.0.1 gs.apple.com
